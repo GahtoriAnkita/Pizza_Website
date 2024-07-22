@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000i\u0000z\u0000z\u0000a\u0000_\u0000W\u0000e\u0000b\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-router-dom": "^6.25.1",
+    "tailwind": "^4.0.0",
+    "vite": "^5.3.4"
+  }
+}
